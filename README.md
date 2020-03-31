@@ -1,2 +1,2 @@
 # datasciencecoursera
-Data Science specialization on Coursera
+Data Science specialization on Coursera.
